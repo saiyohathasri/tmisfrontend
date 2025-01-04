@@ -1,1 +1,1 @@
-ffkjb 
+A Telecom Inventory Management System is designed to manage products, users, suppliers, and stock transactions. It includes user role-based access, stock management, and supplier handling with notifications for stock levels and overdue orders. 
